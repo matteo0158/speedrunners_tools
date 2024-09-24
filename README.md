@@ -1,7 +1,7 @@
 # speedrunners_tools
 Tools using live split server for export split and runs to a google sheet
 
-[![Button Example]][[Link](https://github.com/matteo0158/speedrunners_tools/releases/tag/2.1.0)]
+[![Button Example]][https://github.com/matteo0158/speedrunners_tools/releases/tag/2.1.0]
 
 If you wanna use the program [Contact me](mailto:lacremedore@gmail.com?subject=[GitHub]%20-%20Taking%20Contact).
 
