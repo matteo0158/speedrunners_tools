@@ -27,4 +27,7 @@ The program is free to use but he need some config with the api of google to wor
 </table>
 <!-- readme: contributors -end -->
 
+## Support
+<a href="https://www.buymeacoffee.com/LaCreme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
