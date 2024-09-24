@@ -34,5 +34,5 @@ The program is free to use but he need some config with the api of google to wor
 
 
 [Button Click]: https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge&link=https://github.com/matteo0158/speedrunners_tools/releases/latest
-[Link]: # 'releases/latest'
+[Link]: '[releases/latest](https://github.com/matteo0158/speedrunners_tools/releases/latest)'
 
