@@ -18,7 +18,7 @@ The program is free to use but he need some config with the api of google to wor
 <tr>
     <td align="center">
         <a href="https://www.twitch.tv/kemist_c10h15n">
-            <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/f4593f43-9479-4707-bcfb-3f57ed69fb37-profile_image-70x70.png" width="100;" alt="kemist_c10h15n"/>
+            <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/f4593f43-9479-4707-bcfb-3f57ed69fb37-profile_image-300x300.png" width="100;" alt="kemist_c10h15n"/>
             <br />
             <sub><b>KEMIST_C10H15N</b></sub>
         </a>
