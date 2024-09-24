@@ -25,6 +25,13 @@ The program is free to use but he need some config with the api of google to wor
             <sub><b>KEMIST_C10H15N</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://www.twitch.tv/tinkerknight">
+            <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b9a196b6-4e0c-4a9e-b295-768770de2db7-profile_image-300x300.png" width="100;" alt="tinkerknight"/>
+            <br />
+            <sub><b>TINKERKNIGHT</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 <!-- readme: contributors -end -->
