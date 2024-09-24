@@ -1,10 +1,7 @@
-![GitHub Release](https://img.shields.io/github/v/release/matteo0158/speedrunners_tools)
-
+[![GitHub Release](https://img.shields.io/github/v/release/matteo0158/speedrunners_tools?style=for-the-badge)](#) [![Button Click](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge)](https://github.com/matteo0158/speedrunners_tools/releases/latest)
 
 # speedrunners_tools
 Tools using live split server for export split and runs to a google sheet
-
-[![Button Click](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge)](https://github.com/matteo0158/speedrunners_tools/releases/latest)
 
 If you wanna use the program [Contact me](mailto:lacremedore@gmail.com?subject=[GitHub]%20-%20Taking%20Contact).
 
