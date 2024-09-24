@@ -1,7 +1,7 @@
 # speedrunners_tools
 Tools using live split server for export split and runs to a google sheet
 
-![Static Badge](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmatteo0158%2Fspeedrunners_tools%2Freleases%2Ftag%2F2.1.0)
+[![Button Click]][[Link](https://github.com/matteo0158/speedrunners_tools/releases/tag/2.1.0)] 
 
 If you wanna use the program [Contact me](mailto:lacremedore@gmail.com?subject=[GitHub]%20-%20Taking%20Contact).
 
@@ -31,5 +31,8 @@ The program is free to use but he need some config with the api of google to wor
 
 ## Support
 <a href="https://www.buymeacoffee.com/LaCreme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
 
 
