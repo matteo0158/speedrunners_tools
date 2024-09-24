@@ -13,7 +13,7 @@ The program is free to use but he need some config with the api of google to wor
 - export live split time on google sheet with live split
 - create twitch clip on Reset or Gold split ( optional )
 
-## Program actual user
+## Program actual users
 
 <!-- readme: contributors -start -->
 <table>
