@@ -9,7 +9,7 @@ If you wanna use the program [Contact me](mailto:lacremedore@gmail.com?subject=[
 
 The program is free to use but he need some config with the api of google to work and the google sheet ( need to implement functions )
 
-### What's the program do
+## What's the program do
 - export splits on google sheets using .lss file
 - export live split time on google sheet with live split
 - create twitch clip on Reset or Gold split ( optional )
