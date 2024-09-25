@@ -1,4 +1,4 @@
-[![GitHub Release](https://img.shields.io/github/v/release/matteo0158/speedrunners_tools?style=for-the-badge)](#) [![Button Click](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge&color=%23009e30)](https://github.com/matteo0158/speedrunners_tools/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/matteo0158/speedrunners_tools?style=for-the-badge)](#) [![Button Click](https://img.shields.io/badge/SUPPORT-WINDOWS%20ONLY-blue?style=for-the-badge)] [![Button Click](https://img.shields.io/badge/DOWNLOAD!-37a779?style=for-the-badge&color=%23009e30)](https://github.com/matteo0158/speedrunners_tools/releases/latest)
 
 # speedrunners_tools
 Tools using live split server for export split and runs to a google sheet
