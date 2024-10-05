@@ -36,6 +36,13 @@ The program is free to use but he need some config with the api of google to wor
             <sub><b>TINKERKNIGHT</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://www.twitch.tv/stikmou08">
+            <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/36e51797-adf0-4713-8a4a-37d2ce1e969d-profile_image-300x300.png" width="100;" alt="Stik"/>
+            <br />
+            <sub><b>STIK</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 <!-- readme: contributors -end -->
